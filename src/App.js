@@ -14,8 +14,10 @@ class App extends Component {
         <div className="container2">
           <img className="logo" src={LOGO} />
           <div className="tasks-container">
-            <p>heloo</p>
-            <p>heloo</p>
+            <div className="header">
+              <div className="cls-day">Friday, 10th</div>
+              <div className="cls-month">December</div>
+            </div>
           </div>
         </div>
       </>
