@@ -57,3 +57,16 @@
   font-size: 16px;
   color: #d7dae3;
 }
+
+.rounded-icon {
+  border: 50%;
+  background-color: #4e67de;
+  width: 40px;
+  height: 40px;
+  color: white;
+  text-align: center;
+  justify-content: center;
+  float: right;
+  margin-top: -10px;
+  z-index: 1;
+}

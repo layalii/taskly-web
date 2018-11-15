@@ -18,6 +18,7 @@ class App extends Component {
               <div className="cls-day">Friday, 10th</div>
               <div className="cls-month">December</div>
             </div>
+            <div className="rounded-icon">+</div>
           </div>
         </div>
       </>
